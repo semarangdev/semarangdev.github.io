@@ -1,3 +1,3 @@
 # SemarangDev
 
-https://semarang.dev website source code.
+https://semarangdev.github.io website source code.
